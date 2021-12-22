@@ -4,7 +4,6 @@
 I'm highly motivated software engineer that develop cool stuffs, contribute and realize any ideas!
 
 #### What I do with my experience?
-• Doing some magic on my [current job](https://epiceasing.com/)<br/>
 • Publish [open source projects (Libs, packages and etc)](https://www.npmjs.com/~gigantz)<br/>
 • Helping designers with [Figma Plugins (Nisa Text Splitter / Make blob)](https://www.figma.com/@gigantz)<br/>
 •  Writing helpful [articles for our Javascript-hood](https://dev.to/orkhanjafarovr)
